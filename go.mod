@@ -3,6 +3,7 @@ module example
 go 1.16
 
 require (
+	github.com/go-kit/kit v0.12.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
 	golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2 // indirect
